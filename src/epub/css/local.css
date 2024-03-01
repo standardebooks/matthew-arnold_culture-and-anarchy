@@ -1,2 +1,36 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+/* verse */
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+/* end verse */
+
+/* language styling */
+blockquote[xml|lang]{
+	font-style: italic;
+}
+/* end language styling */
+
+/* subchapter headers */
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+/* end subchapter headers */
+
+/* preface header */
+[epub|type~="preface"] header > h2{
+	margin-bottom: 1em;
+}
+/* end preface header */
