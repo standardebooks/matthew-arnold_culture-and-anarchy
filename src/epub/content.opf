@@ -28,43 +28,53 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Culture and Anarchy</dc:title>
 		<meta property="file-as" refines="#title">Culture and Anarchy</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">An Essay in Political and Social Criticism</dc:title>
+		<meta property="file-as" refines="#subtitle">Essay in Political and Social Criticism, An</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Culture and Anarchy: An Essay in Political and Social Criticism</dc:title>
+		<meta property="file-as" refines="#fulltitle">Culture and Anarchy: An Essay in Political and Social Criticism</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Great Britain -- Social conditions -- 19th century</dc:subject>
 		<dc:subject id="subject-2">Culture</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85056943</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85034755</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">A critical essay on British society in the Victorian era.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In &lt;a href="https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy"&gt;&lt;i&gt;Culture and Anarchy&lt;/i&gt;&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/matthew-arnold"&gt;Matthew Arnold&lt;/a&gt; sets out what he sees as the major flaws in the various classes of British society. The aristocrats are too out of touch with mainstream society. The middle class has energy but needs refinement. The working class does not know what it wants. Arnold worries that democratic freedom will devolve into anarchy, and argues that culture must be developed in each person in order to achieve perfection. Culture is “the best which has been thought and said.” This culture should provide the cohesion to keep society together.&lt;/p&gt;
+			&lt;p&gt;Arnold puts the collective identity of the people in the State, and yet as a British liberal, seems to understand his countymen’s mistrust of a centralized authority. He leaves it to each person to look inward, to be well informed, to cultivate the kinds of things that will bring about “sweetness and light,” which are his terms to represent beauty and intelligence. He sees each class as fixed on certain “stock notions.” But rather than look for a “rival fetish” to take the place of any such false notion, society should “turn a free and fresh stream of thought upon the whole matter in question.”&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Culture and Anarchy&lt;/i&gt; was first published as a series of essays in &lt;i&gt;Cornhill Magazine&lt;/i&gt;, and then was collected into a book in 1869. This ebook is based on a 1925 edition. This is essentially the third edtion from 1882, which was extensively edited from the original while Arnold was still alive. These writings came at a time of great political, social, scientific, and religious change, and attempted to provide a blueprint for society to navigate through the Victorian era.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4212</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/cultureanarchy00arno</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Culture_and_Anarchy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/matthew-arnold_culture-and-anarchy</meta>
 		<dc:creator id="author">Matthew Arnold</dc:creator>
 		<meta property="file-as" refines="#author">Arnold, Matthew</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Matthew_Arnold</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79045174</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Pierre Puvis de Chavannes</dc:contributor>
+		<meta property="file-as" refines="#artist">Puvis de Chavannes, Pierre</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Pierre_Puvis_de_Chavannes</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50049345</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Alfred J. Drake</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Drake, Alfred J.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jason Livermore</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Livermore, Jason</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/jason-livermore-b854a97</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
