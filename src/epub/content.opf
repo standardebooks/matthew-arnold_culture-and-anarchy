@@ -52,6 +52,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4212</dc:source>
 		<dc:source>https://archive.org/details/cultureanarchy00arno</dc:source>
+		<meta property="se:production-notes">The author notes that he intentionally uses Renascence rather than Renaissance, given the English context of his discussion. The modernize-spelling script will try to change this.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Culture_and_Anarchy</meta>
