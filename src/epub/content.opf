@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-03-09T19:02:05Z</dc:date>
+		<meta property="dcterms:modified">2024-03-09T19:02:05Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,18 +43,18 @@
 		<meta property="term" refines="#subject-2">sh85034755</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">A critical essay on British society in the Victorian era.</dc:description>
+		<dc:description id="description">Matthwe Arnold describes what he considers to be the flaws in Victorian British society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In &lt;a href="https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy"&gt;&lt;i&gt;Culture and Anarchy&lt;/i&gt;&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/matthew-arnold"&gt;Matthew Arnold&lt;/a&gt; sets out what he sees as the major flaws in the various classes of British society. The aristocrats are too out of touch with mainstream society. The middle class has energy but needs refinement. The working class does not know what it wants. Arnold worries that democratic freedom will devolve into anarchy, and argues that culture must be developed in each person in order to achieve perfection. Culture is “the best which has been thought and said.” This culture should provide the cohesion to keep society together.&lt;/p&gt;
-			&lt;p&gt;Arnold puts the collective identity of the people in the State, and yet as a British liberal, seems to understand his countymen’s mistrust of a centralized authority. He leaves it to each person to look inward, to be well informed, to cultivate the kinds of things that will bring about “sweetness and light,” which are his terms to represent beauty and intelligence. He sees each class as fixed on certain “stock notions.” But rather than look for a “rival fetish” to take the place of any such false notion, society should “turn a free and fresh stream of thought upon the whole matter in question.”&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Culture and Anarchy&lt;/i&gt; was first published as a series of essays in &lt;i&gt;Cornhill Magazine&lt;/i&gt;, and then was collected into a book in 1869. This ebook is based on a 1925 edition. This is essentially the third edtion from 1882, which was extensively edited from the original while Arnold was still alive. These writings came at a time of great political, social, scientific, and religious change, and attempted to provide a blueprint for society to navigate through it all.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Culture and Anarchy&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/matthew-arnold"&gt;Matthew Arnold&lt;/a&gt; sets out what he sees as the major flaws in the various classes of British society: The aristocrats are too out of touch with mainstream society; the middle class has energy but needs refinement; and the working class doesn’t know what it wants. Arnold worries that democratic freedom will devolve into anarchy, and argues that culture—“the best which has been thought and said”—must be developed in each person in order to achieve perfection. Incubating culture in this way will provide the cohesion needed to keep society together.&lt;/p&gt;
+			&lt;p&gt;Arnold places the collective identity of the people in the State, and yet as a British liberal, seems to understand his countrymen’s mistrust of a centralized authority. He leaves it to each person to look inward, to be well informed, to cultivate the kinds of things that will bring about “sweetness and light,” which are his terms to represent beauty and intelligence. He sees each class as fixed on certain “stock notions.” But rather than look for a “rival fetish” to take the place of any such false notion, society should “turn a free and fresh stream of thought upon the whole matter in question.” These writings came at a time of great political, social, scientific, and religious change, and attempted to provide a blueprint for society to navigate through it all.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Culture and Anarchy&lt;/i&gt; was first published as a series of essays in &lt;i&gt;Cornhill Magazine&lt;/i&gt;, and then was collected into a book in 1869. This ebook is based on a 1925 edition, which is essentially the 1882 third edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4212</dc:source>
 		<dc:source>https://archive.org/details/cultureanarchy00arno</dc:source>
 		<meta property="se:production-notes">The author notes that he intentionally uses Renascence rather than Renaissance, given the English context of his discussion. The modernize-spelling script will try to change this.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">64754</meta>
+		<meta property="se:reading-ease.flesch">42.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Culture_and_Anarchy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/matthew-arnold_culture-and-anarchy</meta>
 		<dc:creator id="author">Matthew Arnold</dc:creator>
@@ -82,6 +82,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
