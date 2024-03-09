@@ -21,16 +21,8 @@ blockquote[xml|lang]{
 }
 /* end language styling */
 
-/* subchapter headers */
-header{
-	font-variant: small-caps;
-	margin: 1em;
-	text-align: center;
-}
-/* end subchapter headers */
-
 /* preface header */
-[epub|type~="preface"] header > h2{
+[epub|type~="preface"] h2{
 	margin-bottom: 1em;
 }
 /* end preface header */
