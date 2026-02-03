@@ -46,6 +46,7 @@
 		<meta property="se:subject">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="se:title-in-collection" refines="#collection-1">Sweetness and Light</meta>
 		<dc:description id="description">Matthew Arnold describes what he considers to be the flaws in Victorian British society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;i&gt;Culture and Anarchy&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/matthew-arnold"&gt;Matthew Arnold&lt;/a&gt; sets out what he sees as the major flaws in the various classes of British society: the aristocrats are too out of touch with mainstream society; the middle class has energy but needs refinement; and the working class doesn’t know what it wants. Arnold worries that democratic freedom will devolve into anarchy, and argues that culture—“the best which has been thought and said”—must be developed in each person in order to achieve perfection. Incubating culture in this way will provide the cohesion needed to keep society together.&lt;/p&gt;
