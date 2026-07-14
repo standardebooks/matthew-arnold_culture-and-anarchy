@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Culture and Anarchy: An Essay in Political and Social Criticism</dc:title>
 		<meta property="file-as" refines="#fulltitle">Culture and Anarchy: An Essay in Political and Social Criticism</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Great Britain -- Social conditions -- 19th century</dc:subject>
 		<dc:subject id="subject-2">Culture</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
