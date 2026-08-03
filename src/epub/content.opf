@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy</dc:identifier>
 		<dc:date>2024-03-09T19:02:05Z</dc:date>
@@ -50,12 +50,12 @@
 		<meta property="schema:hasPart" refines="#collection-1" id="collection-1-entry-1">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-1-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-1-entry-1">Sweetness and Light</meta>
-		<dc:description id="description">Matthew Arnold describes what he considers to be the flaws in Victorian British society.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Matthew Arnold describes what he considers to be the flaws in Victorian British society.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In &lt;i&gt;Culture and Anarchy&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/matthew-arnold"&gt;Matthew Arnold&lt;/a&gt; sets out what he sees as the major flaws in the various classes of British society: the aristocrats are too out of touch with mainstream society; the middle class has energy but needs refinement; and the working class doesn’t know what it wants. Arnold worries that democratic freedom will devolve into anarchy, and argues that culture—“the best which has been thought and said”—must be developed in each person in order to achieve perfection. Incubating culture in this way will provide the cohesion needed to keep society together.&lt;/p&gt;
 			&lt;p&gt;Arnold places the collective identity of the people in the State, and yet as a British liberal, seems to understand his countrymen’s mistrust of a centralized authority. He leaves it to each person to look inward, to be well informed, to cultivate the kinds of things that will bring about “sweetness and light,” which are his terms to represent beauty and intelligence. He sees each class as fixed on certain “stock notions.” But rather than look for a “rival fetish” to take the place of any such false notion, society should “turn a free and fresh stream of thought upon the whole matter in question.” These writings came at a time of great political, social, scientific, and religious change, and attempted to provide a blueprint for society to navigate through it all.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Culture and Anarchy&lt;/i&gt; was first published as a series of essays in &lt;i&gt;Cornhill Magazine&lt;/i&gt;, and then was collected into a book in 1869. This ebook is based on a 1925 edition, which is essentially the 1882 third edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4212</dc:source>
 		<dc:source>https://archive.org/details/cultureanarchy00arno</dc:source>
